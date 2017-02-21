@@ -1,3 +1,5 @@
-# My Awesome Book
+## C语言100例
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+这是为编程初学者准备的编程实例。
+
+我在这里把这100个C语言编程实例制作成gitbook，并抽取20个经典例子出来。
